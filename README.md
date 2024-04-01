@@ -1,2 +1,3 @@
 # GROUP-17
-Repository for Internet Programming
+<em>Repository for Internet Programming</em>
+<hr><br><strong>Group Members</strong>
